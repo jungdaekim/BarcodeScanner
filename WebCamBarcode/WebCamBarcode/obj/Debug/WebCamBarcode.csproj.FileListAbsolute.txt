@@ -1,0 +1,13 @@
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\bin\Debug\WebCamBarcode.exe.config
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\bin\Debug\WebCamBarcode.exe
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\bin\Debug\WebCamBarcode.pdb
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\bin\Debug\BasselTech CamCapture.dll
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\obj\Debug\WebCamBarcode.csproj.AssemblyReference.cache
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\obj\Debug\WebCamBarcode.Form1.resources
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\obj\Debug\WebCamBarcode.Properties.Resources.resources
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\obj\Debug\WebCamBarcode.csproj.GenerateResource.cache
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\obj\Debug\WebCamBarcode.csproj.CoreCompileInputs.cache
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\obj\Debug\WebCamBa.2EA52C3D.Up2Date
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\obj\Debug\WebCamBarcode.exe
+C:\Users\tojdk\source\repos\WebCamBarcode\WebCamBarcode\obj\Debug\WebCamBarcode.pdb
